@@ -1,0 +1,9 @@
+ghci
+
+:info :i
+:load :l
+import :module :m
+:m + -
+:reload :r
+:show (bindings, modules, imports)
+:type :t
